@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-qfbt4v.salamkita.cfd/sitemap.xml
